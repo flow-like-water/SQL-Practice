@@ -3,4 +3,4 @@
 
 ## Links
 
-- [Drawing Flowers Using Mathematics](https://github.com/Nick-Kolowich/R-practice/blob/main/Draw%20Flowers%20Using%20Mathematics/notebook.ipynb)
+- [International Debt Statistics](https://github.com/Nick-Kolowich/SQL-Practice/blob/main/Analyze%20International%20Debt%20Statistics/notebook.ipynb)
