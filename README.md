@@ -1,5 +1,7 @@
 # SQL Practice
  A repository to practice SQL syntax with queries.
+ 
+ Used pgAdmin4 as SQL database.
 
 ## Links
 
